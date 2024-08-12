@@ -1,0 +1,12 @@
+{
+  "name": "telegram-notion-integration",
+  "version": "1.0.0",
+  "description": "Integration between Telegram and Notion",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
